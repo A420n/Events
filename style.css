@@ -1,0 +1,32 @@
+body{
+    margin-top: 300px;
+    display: grid;
+    justify-items: center;
+    background-color: black;
+    color: white;
+}
+hr{
+    width: 20%;
+}
+a{
+    color: white;
+}
+p{
+    text-align: center;
+}
+#mas{
+    background-color: green;
+}
+#men{
+    background-color: red;
+}
+#palo{
+    font-size: 25px;
+}
+#rta{
+    display: grid;
+    justify-items: center;
+}
+#btn{
+    text-align: center;
+}
